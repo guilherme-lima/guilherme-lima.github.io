@@ -1,2 +1,4 @@
 facebook.com.br
 pt-br.facebook.com
+github.com
+ngrok.com
